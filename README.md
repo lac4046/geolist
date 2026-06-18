@@ -48,7 +48,7 @@ An ecommerce brand can identify which metros are 40 percent of revenue and rebal
 
 - Product page: https://info.optimizeme.today/applications/geolist
 - Deep-dive blog post on CRM map visualization: https://info.optimizeme.today/blog/how-to-plot-crm-contacts-on-a-map
-- Made by Arturo Chinchilla at OptimizeMe: https://info.optimizeme.today
+- Made by Arturo Chinchilla at OptimizeMe: https://info.optimizeme.today/about
 
 ## About this repository
 
