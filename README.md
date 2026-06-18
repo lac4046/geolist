@@ -2,7 +2,7 @@
 
 Map your HubSpot, Mailchimp, or Shopify contacts on an interactive map. Build geographic segments by drawing radius circles or selecting US states, then sync them back to your CRM as real lists you can use in campaigns.
 
-[Try GeoList](https://info.optimizeme.today/applications/geolist) - [Read the deep-dive on the OptimizeMe blog](https://info.optimizeme.today/blog/how-to-plot-crm-contacts-on-a-map)
+[Learn More](https://info.optimizeme.today/applications/geolist) - [Read the deep-dive on the OptimizeMe blog](https://info.optimizeme.today/blog/how-to-plot-crm-contacts-on-a-map)
 
 ---
 
